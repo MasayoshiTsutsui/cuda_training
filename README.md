@@ -19,6 +19,7 @@ However, only the random numbers' initialization is performed on CPU.
 
 ### Execution time
 comiler: nvcc V11.1.74
+
 Hardware: NVIDIA A100
 - Phase1: 7.7922 msec.
 - Phase2: 0.439296 msec.
